@@ -17,6 +17,7 @@ Método de aprendizaje: intentar resolver, leer writeups, redactar lo aprendido.
 
 
 ## Tryhackme
+- [Brick](writeups/tryhackme/bricks-thm.md)
 
 ## HackTheBox
 
